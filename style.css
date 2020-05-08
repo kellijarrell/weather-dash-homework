@@ -1,0 +1,38 @@
+.row {
+    margin: 20px;
+}
+
+.navbartext {
+
+    text-align: center;
+    color: white;
+
+}
+
+.searchBtn {
+    border-left: 1px solid rgb(1, 100, 122);
+    background-color: #06AED5;
+    color: white;
+  }
+  
+  .searchBtn i:hover {
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+  }
+
+  .btn-style{
+      margin: 10px;
+      background-color: #06AED5;
+      border-left: 1px solid rgb(1, 100, 122);
+      color: white;
+
+  }
+
+  .five-day{
+    background-color: #06AED5;
+    border-radius: 15px;
+    color: white;
+    margin: 10px;
+    text-align: center;
+
+  }
