@@ -144,7 +144,8 @@ $(document).ready(function () {
 
     });
 
-    $(document).on("click", ".btn-style", displayCityInfo, display5DaysInfo);
+    $(document).on("click", ".btn-style", displayCityInfo);
+    $(document).on("click", ".btn-style", display5DaysInfo);
 
     renderButtons();
 
